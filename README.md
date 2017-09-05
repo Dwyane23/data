@@ -1,5 +1,5 @@
 # Identity
 
-* Name: <Shixiong Xie>
-* GitHubID: <Dwyane23>
-* NetID: <xie123>
+* Name: Shixiong Xie
+* GitHubID: Dwyane23
+* NetID: xie123
